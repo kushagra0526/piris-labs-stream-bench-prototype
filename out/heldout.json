@@ -1,0 +1,22 @@
+{
+  "worlds": 200,
+  "wrong_winner": {
+    "peak_of_5": 49,
+    "median_of_5": 37,
+    "harness_30_runs_3_sessions": 0
+  },
+  "harness_says_tie": 112,
+  "overstatement_vs_true_median_pct": {
+    "peak5": 30.4,
+    "peak30": 61.3,
+    "median5": 1.1,
+    "harness30": -0.1
+  },
+  "peak5_overstates_by_more_than_15pct_share": 0.667,
+  "coalesced_endpoints": 390,
+  "count_events_as_tokens_error_pct": -86.9,
+  "harness_error_on_coalesced_pct": -0.3,
+  "ttft_at_100k_median_s": 4.91,
+  "e2e_below_decode_at_100k_median_pct": 71.2,
+  "fastest_decode_not_fastest_for_user_at_100k": 100
+}
